@@ -1,5 +1,21 @@
 # Changelog
 
+## 3.5.0
+
+### Minor Changes
+
+-   b4e67af: ADD IS_DEV and Hot Reloading to debug
+
+### Patch Changes
+
+-   82f1f79: fix: make AWS Bedrock authentication predictable
+-   9b66eac: Add translation to CODE_OF_CONDUCT, CONTRIBUTING and README to Arabic ar-sa.
+-   45e1f58: A new MCP Marketplace display setting has been added to VSCode settings. (It is defaulted to "true")
+-   d58c947: Added a .clinerules file with details about our most common features
+-   9449f5d: Fix checking "Support Images" setting had no effect on first click
+-   5e65ea0: fix: Anthropic's default model is 3.7
+-   0f12400: Adjustment to MCP server installation prompt
+
 ## [3.4.9]
 
 -   Add toggle to let users opt-in to anonymous telemetry and error reporting
